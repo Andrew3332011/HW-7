@@ -1,0 +1,22 @@
+:root {
+    --alert: #256425;
+    --alert-success: #985235;
+    --alert-warning: #162263;
+    --alert-error: #999900;
+}
+
+.alert {
+    color: var(--alert);
+}
+
+.success {
+    color: var(--alert-success);
+}
+
+.warning {
+    color: var(--alert-warning);
+}
+
+.error {
+    color: var(--alert-error);
+}
